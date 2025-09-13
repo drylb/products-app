@@ -7,7 +7,6 @@ This app demonstrates:
 - ✅ Dropdown menu with click-outside handling  
 - ✅ Product state management (add/remove via API)  
 - ✅ Modal for sharing product details  
-- ✅ Clean, testable React component structure  
 
 ---
 
